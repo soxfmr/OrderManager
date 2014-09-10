@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2013\Projects\OrderManager\OrderManager\bin\Debug\OrderManager.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\OrderManager\OrderManager\bin\Debug\OrderManager.exe
+c:\users\administrator\documents\visual studio 2013\Projects\OrderManager\OrderManager\bin\Debug\OrderManager.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\OrderManager\OrderManager\obj\Debug\OrderManager.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\OrderManager\OrderManager\obj\Debug\OrderManager.MainForm.resources
+c:\users\administrator\documents\visual studio 2013\Projects\OrderManager\OrderManager\obj\Debug\OrderManager.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\OrderManager\OrderManager\obj\Debug\OrderManager.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\OrderManager\OrderManager\obj\Debug\OrderManager.exe
+c:\users\administrator\documents\visual studio 2013\Projects\OrderManager\OrderManager\obj\Debug\OrderManager.pdb
