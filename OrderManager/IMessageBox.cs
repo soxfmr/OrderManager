@@ -8,5 +8,9 @@ namespace OrderManager
 {
     class IMessageBox
     {
+        public static void Show()
+        {
+
+        }
     }
 }
